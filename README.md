@@ -1,6 +1,8 @@
 # test-google-api
 Vue.js + Google api (Places) : https://developers.google.com/places/web-service/intro
 
+Vue guide : https://vuejs.org/v2/guide/
+
 open source api service : https://nominatim.openstreetmap.org/search.php
 
 ##set up
