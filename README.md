@@ -1,5 +1,5 @@
 # test-google-api
-Vue.js + Google api (Places)
+Vue.js + Google api (Places) : https://developers.google.com/places/web-service/intro
 
 ##set up
  - clone repository
