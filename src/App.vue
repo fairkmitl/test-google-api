@@ -89,7 +89,7 @@ export default {
     },
 
     getGeoJSON() {
-      this.getCityData(this.cityState);// Lat, Lan
+      this.getCityData(this.cityState);//Get Lat, Lan
     },
 
     cityStateHelper(str) {
@@ -115,10 +115,10 @@ export default {
     },
 
     getCityData(theCity) {
-      let apiPath = "https://nominatim.openstreetmap.org/search.php";
+      let apiPath = "https://nominatim.openstreetmap.org/search.php"; //open source api service
 
       let params = {
-        q: `${theCity},USA`,
+        q: `${theCity},THA`,
         polygon_geojson: 1,
         format: "json"
       };
