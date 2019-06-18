@@ -1,14 +1,15 @@
 # test-google-api
-Vue.js + Google api (Places)
+Vue.js + Google api (Places) : https://developers.google.com/places/web-service/intro
 
 ##set up
  - clone repository
  - go to directory where package.json place
  - npm install
  - npm run serve
+ - enter location and keyword type : https://developers.google.com/places/supported_types
  
  ![](https://github.com/fairkmitl/test-google-api/blob/master/Screenshot/Screenshot%20(28).png)
--next step create list
+-next step : create list
 
 
 - simple demo on restuarant.html
