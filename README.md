@@ -1,6 +1,8 @@
 # test-google-api
 Vue.js + Google api (Places) : https://developers.google.com/places/web-service/intro
 
+open source api service : https://nominatim.openstreetmap.org/search.php
+
 ##set up
  - clone repository
  - go to directory where package.json place
