@@ -6,6 +6,7 @@ Vue.js + Google api (Places)
  - go to directory where package.json place
  - npm install
  - npm run serve
+ - enter location and keyword type : https://developers.google.com/places/supported_types
  
  ![](https://github.com/fairkmitl/test-google-api/blob/master/Screenshot/Screenshot%20(28).png)
 -next step create list
