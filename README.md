@@ -9,7 +9,7 @@ Vue.js + Google api (Places)
  - enter location and keyword type : https://developers.google.com/places/supported_types
  
  ![](https://github.com/fairkmitl/test-google-api/blob/master/Screenshot/Screenshot%20(28).png)
--next step create list
+-next step : create list
 
 
 - simple demo on restuarant.html
