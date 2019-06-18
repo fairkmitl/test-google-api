@@ -21,4 +21,4 @@ Vue.js + Google api (Places) : https://developers.google.com/places/web-service/
 ![](https://github.com/fairkmitl/test-google-api/blob/master/Screenshot/Capture.PNG)
 
 
-Referance[article](https://medium.com/js-dojo/how-to-map-cities-with-vue-geojson-and-google-box-set-7d9afd486070)
+Referance[ article : ](https://medium.com/js-dojo/how-to-map-cities-with-vue-geojson-and-google-box-set-7d9afd486070)
